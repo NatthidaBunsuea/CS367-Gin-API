@@ -34,7 +34,7 @@ http://localhost:8080
 
 ## API Endpoints
 
-by using postman http://localhost:8080/students to test API
+by using postman http://localhost:8080 to test API
 
 | Method | Endpoint      | Description       |
 | ------ | ------------- | ----------------- |
@@ -62,4 +62,5 @@ by using postman http://localhost:8080/students to test API
 ## Student Information
 
 Name: Natthida Bunsuea
+
 Student ID: 6609650350
