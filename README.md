@@ -69,6 +69,6 @@ Student ID: 6609650350
 
 Example testing of each endpoints using Postman.
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2ac43d85-670d-4953-a318-1774eb1ac573" />
+<img width="1247" height="312" alt="gin API test" src="https://github.com/user-attachments/assets/e953443e-4d98-4724-bedc-eb731a31c467" />
 
 
