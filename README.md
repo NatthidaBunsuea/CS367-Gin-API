@@ -64,3 +64,11 @@ by using postman http://localhost:8080 to test API
 Name: Natthida Bunsuea
 
 Student ID: 6609650350
+
+## API Testing Result
+
+Example testing of each endpoints using Postman.
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2ac43d85-670d-4953-a318-1774eb1ac573" />
+
+
